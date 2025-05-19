@@ -3,7 +3,7 @@
 <img align="right" width="250px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqZXQzeGhrNDJ6d2lsdWJ5ZjNzMGJzeTc3bzlneDVqbTdiMjFzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif" />
 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW85YWJwcWdkZWhtam1iMGc2Y2p0N3QyejNicDJ2YWR1cHc5NGQxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" width="30px">&nbsp;***About me*** 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fshkspr.mobi%2Fblog%2F2015%2F02%2Foverlapping-animated-gifs%2F&psig=AOvVaw2Zl1TDlbH6pLV--e237_Ma&ust=1747774366848000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCb4oW1sI0DFQAAAAAdAAAAABAE" width="30px">&nbsp;***About me*** 
 
 
 I'm Gerardo Ruiz, an eigth-semester Economics student at UNAM, currently working as a Research Assistant at IIEc-UNAM under PhD Monika Meireles.
