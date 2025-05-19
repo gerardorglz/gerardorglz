@@ -13,5 +13,5 @@ I'm Gerardo Ruiz, an eigth-semester Economics student at UNAM, currently working
 👀 Outside of studies, I love music production, sports, listen to music, and my dog.
 
 📫 Reach out to me at: <a href="mailto:gerardorg2203@gmail.com">gerardorg2203@gmail.com</a>
-<a href="https://www.tupaginaweb.com">Here</a> you can find my page.
+<a href="https://gerardorglz.github.io/gerardoruizg//">Here</a> you can find my page.
 </div>
