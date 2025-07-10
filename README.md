@@ -4,7 +4,7 @@
 
 ***About me*** 🤓☝️
 
-I'm Gerardo Ruiz, an ninth-semester Economics student at UNAM, currently working as a Research Assistant at IIEc-UNAM under PhD Monika Meireles.
+I'm Gerardo Ruiz, a ninth-semester Economics student at UNAM, currently working as a Research Assistant at IIEc-UNAM under PhD Monika Meireles.
   
 ⭐ Areas of interest: Economic Growth, Energy Transition, Macroeconomics & Monetary Policy, Time Series Analysis, and Causal Inference.
 
