@@ -4,9 +4,9 @@
 
 ***About me*** 🤓☝️
 
-I'm Gerardo Ruiz, a ninth-semester Economics student at UNAM, currently working as a Research Assistant at IIEc-UNAM under PhD Monika Meireles.
+I’m Gerardo Ruiz, a ninth-semester Economics student at UNAM, currently working as an intern at the Governing Board of the Bank of Mexico as a mandatory requirement for the completion of my bachelor’s degree..
   
-⭐ Areas of interest: Economic Growth, Energy Transition, Macroeconomics & Monetary Policy, Time Series Analysis, and Causal Inference.
+⭐ Areas of interest: Economic Growth, Business Cycles, Macroeconomics & Monetary Policy, Time Series Analysis, and Causal Inference.
 
 👀 Outside of studies, I love music production, sports, and my dog.
 
