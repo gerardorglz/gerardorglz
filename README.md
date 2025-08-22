@@ -6,7 +6,7 @@
 
 I’m Gerardo Ruiz, a ninth-semester Economics student at UNAM, currently working as an intern at the Governing Board of Banco de Mexico as a mandatory requirement for the completion of my bachelor’s degree.
   
-⭐ Areas of interest: Economic Growth, Business Cycles, Macroeconomics & Monetary Policy, Time Series Analysis, and Causal Inference.
+⭐ Areas of interest: Macroeconomics dynamics & Monetary Policy, Time Series Analysis, and Causal Inference.
 
 👀 Outside of studies, I love music production, sports, and my dog.
 
