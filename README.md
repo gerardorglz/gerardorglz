@@ -12,5 +12,5 @@ I’m Gerardo Ruiz, a ninth-semester Economics student at UNAM, currently workin
 
 📫 Reach out to me at: <a href="mailto:gerardorg2203@gmail.com">gerardorg2203@gmail.com</a>
 
-<a href="https://gerardorglz.github.io/gerardoruizg//">Here</a> you can find my page.
+<a href="https://gerardorglz.github.io/">Here</a> you can find my page.
 </div>
